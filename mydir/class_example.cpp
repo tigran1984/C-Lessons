@@ -16,7 +16,7 @@ public:
  
     void print() 
     {
-        std::cout << m_month << "/" << m_day << "/" << m_year << std::endl  ;
+        std::cout << m_month << "/" << m_day << "/" << m_year << std::endl   ;
     }
 };
  
